@@ -1,5 +1,5 @@
 /**
-  * RETO: Extraer los campos de hora de una fecha
+  * Extraer los campos de hora de una fecha
   */
 -- Extract --
 SELECT	EXTRACT(HOUR FROM fecha_incorporacion) AS hora_incorporacion,
