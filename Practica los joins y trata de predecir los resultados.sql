@@ -1,5 +1,5 @@
 /**
-  * Practica los joins y trata de
+  * joins y 
   * predecir los resultados
   */
 
