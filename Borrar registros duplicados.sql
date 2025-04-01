@@ -1,5 +1,5 @@
 /**
-  * RETO: Borrar registros duplicados
+  * Borrar registros duplicados
   */
 
 -- Borrado de arreglo de ID por partición por todos los campos --
