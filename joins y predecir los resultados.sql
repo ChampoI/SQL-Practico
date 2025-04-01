@@ -1,6 +1,5 @@
 /**
-  * joins y 
-  * predecir los resultados
+  * joins y predecir los resultados
   */
 
 
