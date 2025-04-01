@@ -1,5 +1,5 @@
 /**
-  * RETO:  Experimenta con rpad
+  * Experimenta con rpad
   * cual es la diferencia?
   */
 
