@@ -1,5 +1,5 @@
 /**
-  * RETO: Resuelve el triángulo con generate_series
+  * Resuelve el triángulo con generate_series
   */
 SELECT  lpad ('*', generate_series, '*')
 FROM    generate_series(1,10);
