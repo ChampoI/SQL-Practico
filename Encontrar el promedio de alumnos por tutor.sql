@@ -1,5 +1,5 @@
 /**
-  * RETO:   Encontrar el promedio de alumnos por tutor
+  * Encontrar el promedio de alumnos por tutor
   */
 
 SELECT AVG(alumnos_por_tutor) promedio_alumnos_por_tutor
